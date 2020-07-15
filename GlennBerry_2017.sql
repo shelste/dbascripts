@@ -1,3 +1,5 @@
+Select 'Glenn Berry Doagnostic Query 1 - Get Server properties'
+
 -- Get selected server properties (Query 3) (Server Properties)
 SELECT SERVERPROPERTY('MachineName') AS [MachineName], 
 SERVERPROPERTY('ServerName') AS [ServerName],  
